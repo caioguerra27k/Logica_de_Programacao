@@ -31,7 +31,7 @@ programa
 			inteiro soma = int1 + int2
 			inteiro sub = int1 - int2
 			inteiro mult = int1 * int2
-			inteiro div = int1 / int2
+			inteiro div =   int1 / int2
 
 			escreva("Soma:" + soma + "\n", "Subtração:" + sub + "\n", "Multiplicação:" + mult + "\n", "Divisão:" + div)
 			
@@ -70,7 +70,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1615; 
+ * @POSICAO-CURSOR = 633; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
